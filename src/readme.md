@@ -1,0 +1,2 @@
+Visual Studio Code (VS Code) es un programa de código fuente gratuito y de código abierto que sirve para escribir y editar código en múltiples lenguajes de programación.
+ Es ligero y potente, disponible para Windows, macOS y Linux, y se puede personalizar con miles de extensiones para agregar funciones específicas como soporte para lenguajes como Python, Java, C++, JavaScript y PHP, así como herramientas de depuración, control de versiones con Git y análisis de datos. 
